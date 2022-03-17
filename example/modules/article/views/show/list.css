@@ -1,0 +1,26 @@
+body {
+    background-color: #00df7b63;
+}
+
+#main-cont {
+    padding: 40px;
+    background-color: whitesmoke;
+}
+
+#list-title {
+    font-size: 50px;
+    padding-bottom: 40px;
+}
+
+#article-list {
+    margin: auto;
+
+}
+
+#article-list > div > a {
+    display: inline-block;
+    padding-bottom: 50px;
+    font-size: 40px;
+    color: #3e3e3e;
+    text-decoration: underline;
+}

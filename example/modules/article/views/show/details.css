@@ -1,0 +1,35 @@
+article .go-back {
+    font-size: 58px;
+    cursor: pointer;
+    width: fit-content;
+}
+
+article .go-back:hover {
+    opacity: 0.7;
+}
+
+article .go-back > a {
+    color: #8a2be2;
+    text-decoration: none;
+}
+
+article h1 {
+    text-align: center;
+    font-size: 50px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.article-cont {
+    padding-left: 40px;
+    padding-right: 40px;
+    font-size: 30px;
+    line-height: 60px;
+    margin: auto;
+}
+
+#author-name {
+    text-align: right;
+    font-weight: bold;
+    padding-top: 30px;
+}
